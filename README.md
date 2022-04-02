@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Some infos about me:
 
 ```javascript
-const thiago = {
+const cesar = {
     pronouns: "He" | "Him",
-    code: ["Java"],
-    askMeAbout: [ "web_dev", "Machine_Learning_<3", "IOT", "Computer_Vision"],
+    code: ["Java", "C"],
+    askMeAbout: [ "C", "Java"],
     technologies: {
         mobile: ["React Native", "Android" ],
     },
