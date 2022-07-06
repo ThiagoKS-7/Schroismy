@@ -22,7 +22,7 @@ const cesar = {
     technologies: {
         mobile: ["React Native", "Android" ],
     },
-    currentProject: "Aprendendo sobre C",
+    currentProject: "Aprendendo sobre C, java,",
     learning: ["C", "Java"].
 };
 ```
