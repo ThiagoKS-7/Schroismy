@@ -12,7 +12,7 @@
 ```javascript
 const cesar = {
     pronouns: "He" | "Him",
-    code: ["Java", "C"],
+    code: ["Java", "C", "Python],
     askMeAbout: [ "C", "Java"],
     technologies: {
         mobile: ["React Native", "Android" ],
@@ -26,7 +26,8 @@ const cesar = {
 <div style="display: inline_block">
   <img  alt="Java-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="C-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ </div>
 
 <h4 align="left">Connect with me:</h4> 
 <div> 
