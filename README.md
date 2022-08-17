@@ -22,9 +22,9 @@ const César = {
 };
 ```
 
-<h4 align="left">Languages and Tools:</h4>  
+<"left">Languages and Tools:</h4>  
 <div style="display: inline_block">
-  <img  alt="Java-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  <img alt="Java-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="C-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
   <img alt="Python-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Html-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
@@ -32,10 +32,10 @@ const César = {
 
  </div>
 
-<Connect with me:< 
+<Connect with me:<h4> 
 <div> 
-<a href="[https://www.instagram.com/cesarschroeder/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <a href = "cesar.schroeder.1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="[https://www.instagram.com/cesarschroeder/]" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/césar-schroeder-3a2130227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
