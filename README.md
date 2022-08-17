@@ -18,7 +18,7 @@ const cesar = {
         mobile: ["React Native", "Android" ],
     },
     currentProject: "Aprendendo sobre C, java e Python",
-    learning: ["C", "Java"].
+    learning: ["C", "Java","Python"].
 };
 ```
 
