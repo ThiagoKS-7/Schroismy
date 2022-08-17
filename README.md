@@ -3,7 +3,7 @@
 <h4 align ="left"> My Metrics...</h4>
 <div align="left">
   <a href="https://github.com/Schroismy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schroismy&show_icons=true&theme=nightowl&include_all_commits=true&count_public=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Schroismy&show_icons=true&theme=nightowl&include_all_commits=true&count_publicandprivate=true"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schroismy&layout=compact&langs_count=10&theme=nightowl"/>
 </div>
 
