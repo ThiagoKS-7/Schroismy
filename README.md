@@ -34,8 +34,6 @@ const César = {
 
 <Connect with me:<> 
 <div> 
-
-  <a href = "cesar.schroeder.1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/césar-schroeder-3a2130227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
