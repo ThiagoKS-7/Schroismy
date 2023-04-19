@@ -22,7 +22,7 @@ const César = {
 };
 ```
 
-<"left">Languages and Tools:</h4>  
+<div align="left">Languages and Tools:</h4>  
 <div style="display: inline_block">
   <img alt="Java-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img alt="C-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />  
@@ -30,9 +30,9 @@ const César = {
   <img alt="Html-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img alt="Css-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
- </div>
+</div>
 
-<Connect with me:<> 
+Connect with me:
 <div> 
   <a href="https://www.linkedin.com/in/césar-schroeder-3a2130227/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
